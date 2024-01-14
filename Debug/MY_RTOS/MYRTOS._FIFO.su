@@ -1,0 +1,4 @@
+MYRTOS._FIFO.c:11:15:FIFO_Init	24	static
+MYRTOS._FIFO.c:26:15:FIFO_enqueue	16	static
+MYRTOS._FIFO.c:51:15:FIFO_dequeue	16	static
+MYRTOS._FIFO.c:75:15:FIFO_IS_FULL	16	static
